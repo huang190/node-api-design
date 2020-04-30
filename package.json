@@ -2,7 +2,7 @@
   "name": "node-api-design-v3",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Grant Lear <willscottmoss@gmail.com>",
+  "author": "Grant Lear <190405477@qq.com>",
   "license": "MIT",
   "scripts": {
     "build": "babel src --out-dir dist",
